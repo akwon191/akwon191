@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akwon191
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...TOP
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...TOP and FCC
+- 💞️ I’m looking to collaborate on ...Open Source Projects
 - 📫 How to reach me ...linkedin:https://www.linkedin.com/in/andy-kwon-114519160/ email: akwon191@gmail.com
 
 <!---
